@@ -1,0 +1,59 @@
+/*
+    selector{
+        propiedad: valor;
+        propiedad: valor;
+    }
+*/
+
+body{
+    /*Cambia color de fondo*/
+    background-color:darkgray;
+    /*Color de texto*/
+    color:darkblue;
+    /*Cambiar fuente del texto*/
+    font-family: sans-serif;
+}
+
+h1 {
+    color:darkred;
+}
+
+h3 {
+    color:indigo;
+}
+
+a{
+    color:darkgreen;
+}
+
+
+/*img{
+    comentario--> width: ancho del objeto // height: alto del objeto. Esto es para todas las imágenes.
+    width: ;
+}*/
+
+.consolas{
+    width: 70%;
+}
+
+.bongo-cat{
+    width: 25%;
+    /*border radius*/
+    border-radius:25%;
+}
+
+.femcharacters{
+    width: 60%;
+}
+
+.games{
+    width: 50%;
+}
+
+.history{
+    width: 40%;
+}
+
+.gaming{
+    width: 50%;
+}
